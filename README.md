@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there ,Here's Akira👋
 
 <!--
 **Akira-Kaito/Akira-Kaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+目前高中生，没啥时间。  
+:page_with_curl: 目前学习：  
+<br><br>
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
